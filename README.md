@@ -1,3 +1,3 @@
-#Currency #Exhange #App #on #Android
+#CurrencyExhangeAppOnAndroid
 
 This is Currency Exhange on Flutter for Android 
